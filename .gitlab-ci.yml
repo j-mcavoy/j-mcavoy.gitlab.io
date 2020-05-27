@@ -4,8 +4,8 @@ pages:
   script:
     - npm install
     - npm run build || true
-    - mv public _public
-    - mv build public
+    - rm -rf public/*
+    - cp -rT build public
   artifacts:
     paths:
       - public
