@@ -14,7 +14,7 @@
       "state":"New Jersey",
       "zip": "08085"
     },
-    "website": "http://www.",
+    "website": "https://j-mcavoy.gitlab.io/",
     "resumedownload":"",
     "social":[
       {
@@ -87,34 +87,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"PEDC Clean Room Environmental Chamber",
+        "category":"Product Engineering Development Center Clinic",
+        "image":"environmental_chamber.jpg",
+        "url":"https://drive.google.com/file/d/1MGKmeV8hJl2WmRio95yV1JTCuh433BDd/view?usp=sharing"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Autonomous Quadcopter",
+        "category":"Rowan RAS",
+        "image":"quad_copter.jpg",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Micromouse",
+        "category":"Rowan RAS",
+        "image":"micromouse.jpg",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Profhacks Website",
+        "category":"Rowan IEEE",
+        "image":"profhacks.jpg",
+        "url":"https://gitlab.com/rowanieee/profhacks/profhacks-com"
       }
     ]
   },
