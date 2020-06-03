@@ -27,6 +27,14 @@ class Resume extends Component {
           </div>
         );
       });
+      var societies = this.props.data.societies.map(function (society) {
+        return (
+          <div key={society.name}>
+            <h3>{society.name}</h3>
+            <p>{society.description}</p>
+          </div>
+        );
+      });
     }
 
     return (
@@ -54,6 +62,17 @@ class Resume extends Component {
 
           <div className="nine columns main-col">{work}</div>
         </div>
+        
+        <div className="row societies">
+          <div className="three columns header-col">
+            <h1>
+              <span>Professional societies</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">{societies}</div>
+        </div>
+        
 
       </section>
     );
