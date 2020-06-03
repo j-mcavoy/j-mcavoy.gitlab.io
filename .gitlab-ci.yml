@@ -3,7 +3,7 @@ image: node:latest
 pages:
   script:
     - npm install
-    - npm run build || true
+    - npm run build
     - rm -rf public/*
     - cp -rT build public
   artifacts:
