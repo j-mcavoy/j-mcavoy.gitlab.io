@@ -8,7 +8,7 @@ module.exports = {
       "I am a 22 year-old electrical and computer engineer experienced in software engineering, full-stack web development, Linux development, and PCB design",
     contactmessage:
       "Here is where you should write your message to readers to have them get in contact with you.",
-    email: "johnemac36@protonmail.com",
+    email: "j-mcavoy@protonmail.com",
     phone: "(856) 357-2550",
     address: {
       street: "208 Abbey Lane",
@@ -36,7 +36,7 @@ module.exports = {
       },
       {
         name: "email",
-        url: "mailto://johnemac36@protonmail.com",
+        url: "mailto://j-mcavoy@protonmail.com",
         className: "fa fa-mail",
       },
     ],
