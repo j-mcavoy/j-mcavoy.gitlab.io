@@ -26,7 +26,7 @@ class Footer extends Component {
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
-              <i className="icon-up-open"></i>
+              <i className="fa fa-angle-up"></i>
             </a>
           </div>
         </div>
