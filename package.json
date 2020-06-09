@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "font-awesome-sass": "^4.7.0",
     "husky": "^4.2.5",
     "jquery": "^3.5.1",
     "lint-staged": "^10.2.6",
