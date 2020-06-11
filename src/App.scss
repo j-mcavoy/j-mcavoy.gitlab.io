@@ -2,3 +2,6 @@ $fa-font-path: "~@fortawesome/fontawesome-free";
 @import "~@fortawesome/fontawesome-free";
 
 @import "~@typopro/web-libre-baskerville/TypoPRO-LibreBaskerville.css";
+
+$opensans-font-path: "~opensans-npm-webfont/style.scss";
+@import "~opensans-npm-webfont/style.scss";
