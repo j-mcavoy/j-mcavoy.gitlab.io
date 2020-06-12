@@ -21,7 +21,7 @@ module.exports = {
       {
         name: "linkedin",
         url: "http://linkedin.com/in/john-mcavoy-8b888b183",
-        className: "fa fa-linkedin-in",
+        className: "fa fa-linkedin",
       },
       {
         name: "gitlab",
@@ -97,61 +97,33 @@ module.exports = {
         description: "Webmaster",
       },
     ],
-    skills: [
-      {
-        name: "Git",
-        level: "100%",
-      },
-      {
-        name: "",
-        level: "55%",
-      },
-      {
-        name: "ReactJs",
-        level: "50%",
-      },
-    ],
-  },
-  portfolio: {
-    projects: [
-      {
-        title: "PEDC Clean Room Environmental Chamber",
-        category: "Product Engineering Development Center Clinic",
-        image: "environmental_chamber.jpg",
-        url: "/objects/EnvironmentalChamber_Report.pdf",
-      },
-      {
-        title: "Autonomous Quadcopter",
-        category: "Rowan RAS",
-        image: "quad_copter.jpg",
-        url: "",
-      },
-      {
-        title: "Micromouse",
-        category: "Rowan RAS",
-        image: "micromouse.jpg",
-        url: "",
-      },
-      {
-        title: "Profhacks Website",
-        category: "Rowan IEEE",
-        image: "profhacks.jpg",
-        url: "https://gitlab.com/rowanieee/profhacks/profhacks-com",
-      },
-    ],
-  },
-  testimonials: {
-    testimonials: [
-      {
-        text:
-          "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        user: "Kareem Abdul Jabbar",
-      },
-      {
-        text:
-          "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        user: "Steve Wozniak... impersonator",
-      },
-    ],
+    portfolio: {
+      projects: [
+        {
+          title: "PEDC Clean Room Environmental Chamber",
+          category: "Product Engineering Development Center Clinic",
+          image: "environmental_chamber.jpg",
+          url: "/objects/EnvironmentalChamber_Report.pdf",
+        },
+        {
+          title: "Autonomous Quadcopter",
+          category: "Rowan RAS",
+          image: "quad_copter.jpg",
+          url: "",
+        },
+        {
+          title: "Micromouse",
+          category: "Rowan RAS",
+          image: "micromouse.jpg",
+          url: "",
+        },
+        {
+          title: "Profhacks Website",
+          category: "Rowan IEEE",
+          image: "profhacks.jpg",
+          url: "https://gitlab.com/rowanieee/profhacks/profhacks-com",
+        },
+      ],
+    },
   },
 };

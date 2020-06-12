@@ -3,12 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
     "husky": "^4.2.5",
     "jquery": "^3.5.1",
     "lint-staged": "^10.2.6",
     "node-sass": "^4.14.1",
-    "opensans-npm-webfont": "^1.0.0",
     "prettier": "^2.0.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
