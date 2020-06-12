@@ -66,7 +66,7 @@ class Resume extends Component {
         <div className="row societies">
           <div className="three columns header-col">
             <h1>
-              <span>Extra-circulars</span>
+              <span>Extra-curriculars</span>
             </h1>
           </div>
 
