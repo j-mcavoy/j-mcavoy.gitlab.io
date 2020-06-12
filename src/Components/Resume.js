@@ -27,11 +27,11 @@ class Resume extends Component {
           </div>
         );
       });
-      var societies = this.props.data.societies.map(function (society) {
+      var extra_circulars = this.props.data.extra_curriculars.map(function (extra_curricular) {
         return (
-          <div key={society.name}>
-            <h3>{society.name}</h3>
-            <p>{society.description}</p>
+          <div key={extra_curricular.name}>
+            <h3>{extra_curricular.name}</h3>
+            <p>{extra_curricular.description}</p>
           </div>
         );
       });
@@ -66,11 +66,11 @@ class Resume extends Component {
         <div className="row societies">
           <div className="three columns header-col">
             <h1>
-              <span>Professional societies</span>
+              <span>Extra-circulars</span>
             </h1>
           </div>
 
-          <div className="nine columns main-col">{societies}</div>
+          <div className="nine columns main-col">{extra_circulars}</div>
         </div>
         
 

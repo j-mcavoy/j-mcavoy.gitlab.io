@@ -83,7 +83,7 @@ module.exports = {
         description: "",
       },
     ],
-    societies: [
+    extra_curriculars: [
       {
         name: "Rowan University IEEE Student Branch",
         description: "Service Chair, Webmaster, Student Member of the Month",
