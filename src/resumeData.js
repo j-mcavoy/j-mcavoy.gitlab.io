@@ -2,7 +2,6 @@ module.exports = {
   main: {
     name: "John McAvoy",
     occupation: "Electrical and Computer Engineer",
-    description: "",
     image: "profilepic.jpg",
     bio:
       "I am a 22 year-old electrical and computer engineer experienced in software engineering, full-stack web development, Linux development, and PCB design",
