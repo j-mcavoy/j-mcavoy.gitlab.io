@@ -45,7 +45,11 @@ module.exports = {
       "Here you can create a short write-up of your skills to show off to employers",
     education: [
       {
-        school: "Rowan University",
+        school: {
+          name: "Rowan University",
+          logo: "/images/resume/Rowan_Logo.png",
+          website: "https://www.rowan.edu"
+        },
         degree: "Bachelor of Science in Electrical and Computer Engineering",
         graduated: "May 2020",
         description: "",
@@ -57,44 +61,65 @@ module.exports = {
         title: "ECE Consultant",
         years: "January 2018 - May 2020",
         description: "",
+        logo: "/images/resume/A-Team_Logo.png",
+        website: "https://confluence.rowan.edu/display/ATEAM/The+A-Team"
       },
       {
         company: "Innovative Defense Technologies",
         title: "Systems Engineering Intern",
         years: "May 2019 - August 2019",
         description: "",
+        logo: "/images/resume/IDT_Logo.png",
+        website: "https://www.idtus.com"
       },
       {
         company: "Harris Cooperation",
         title: "Datacom Intern",
         years: "May 2018 - September 2018",
         description: "",
+        logo: "/images/resume/Harris_Logo.jpg",
+        website: "https://www.harris.com"
       },
       {
         company: "Siegfried USA, LLC",
         title: "Data Enty and QA Intern",
         years: "June 2016 - September 2016",
         description: "",
+        logo: "/images/resume/Siegfried_Logo.png",
+        website: "https://www.siegfried.ch/"
       },
       {
         company: "Rowan University Virtual Reality Center",
         title: "VR Development Intern",
         years: "May 2016 - August 2016",
         description: "",
+        logo: "/images/resume/Rowan_Logo.png",
+        website: "https://research.rowan.edu/officeofresearch/vr/index.html"
       },
     ],
-    extra_curriculars: [
+    extracurriculars: [
+      {
+        name: "IEEE",
+        description: "Member, Region 2, Philadelphia Section",
+        logo: "/images/resume/IEEE_Logo.png",
+        website: "https://www.ieee.org"
+      },
       {
         name: "Rowan University IEEE Student Branch",
         description: "Service Chair, Webmaster, Student Member of the Month",
+        logo: "/images/resume/RowanIEEE_Logo.png",
+        //website: "https://www.rowanieee.org"
       },
       {
         name: "Rowan Robotics and Automation Society Student Branch",
         description: "Vice President, Project Coordinator Chair",
+        logo: "/images/resume/RowanRAS_Logo.png",
+        //website: "https://www.rowanras.org"
       },
       {
         name: "Rowan Engineers Without Borders Student Branch",
         description: "Webmaster",
+        logo: "/images/resume/EWB_Logo.jpg"
       },
     ],
     portfolio: {
