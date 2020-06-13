@@ -4,9 +4,9 @@ module.exports = {
     occupation: "Electrical and Computer Engineer",
     image: "profilepic.jpg",
     bio:
-      "I am a 22 year-old electrical and computer engineer experienced in software engineering, full-stack web development, Linux development, and PCB design",
+    "I am a 22 year-old electrical and computer engineer experienced in software engineering, full-stack web development, Linux development, and PCB design",
     contactmessage:
-      "Here is where you should write your message to readers to have them get in contact with you.",
+    "Here is where you should write your message to readers to have them get in contact with you.",
     email: "j-mcavoy@protonmail.com",
     phone: "(856) 357-2550",
     address: {
@@ -42,7 +42,7 @@ module.exports = {
   },
   resume: {
     skillmessage:
-      "Here you can create a short write-up of your skills to show off to employers",
+    "Here you can create a short write-up of your skills to show off to employers",
     education: [
       {
         school: {
@@ -122,33 +122,33 @@ module.exports = {
         logo: "/images/resume/EWB_Logo.jpg"
       },
     ],
-    portfolio: {
-      projects: [
-        {
-          title: "PEDC Clean Room Environmental Chamber",
-          category: "Product Engineering Development Center Clinic",
-          image: "environmental_chamber.jpg",
-          url: "/objects/EnvironmentalChamber_Report.pdf",
-        },
-        {
-          title: "Autonomous Quadcopter",
-          category: "Rowan RAS",
-          image: "quad_copter.jpg",
-          url: "",
-        },
-        {
-          title: "Micromouse",
-          category: "Rowan RAS",
-          image: "micromouse.jpg",
-          url: "",
-        },
-        {
-          title: "Profhacks Website",
-          category: "Rowan IEEE",
-          image: "profhacks.jpg",
-          url: "https://gitlab.com/rowanieee/profhacks/profhacks-com",
-        },
-      ],
-    },
+  },
+  portfolio: {
+    projects: [
+      {
+        title: "PEDC Clean Room Environmental Chamber",
+        category: "Product Engineering Development Center Clinic",
+        image: "environmental_chamber.jpg",
+        url: "/objects/EnvironmentalChamber_Report.pdf",
+      },
+      {
+        title: "Autonomous Quadcopter",
+        category: "Rowan RAS",
+        image: "quad_copter.jpg",
+        url: "",
+      },
+      {
+        title: "Micromouse",
+        category: "Rowan RAS",
+        image: "micromouse.jpg",
+        url: "",
+      },
+      {
+        title: "Profhacks Website",
+        category: "Rowan IEEE",
+        image: "profhacks.jpg",
+        url: "https://gitlab.com/rowanieee/profhacks/profhacks-com",
+      },
+    ],
   },
 };
