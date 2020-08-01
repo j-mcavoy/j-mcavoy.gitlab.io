@@ -16,7 +16,7 @@ module.exports = {
       zip: "08085",
     },
     website: "https://j-mcavoy.gitlab.io/",
-    resumedownload: "/objects/Resume_JohnMcAvoy.pdf",
+    resumedownload: "https://gitlab.com/j-mcavoy/resume/-/jobs/artifacts/master/raw/output/resume/hard_software_generalist/resume.pdf?job=build",
     social: [
       {
         name: "linkedin",
