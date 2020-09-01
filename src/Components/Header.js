@@ -49,6 +49,11 @@ class Header extends Component {
                 Resume
               </a>
             </li>
+            <li>
+              <a href="https://j-mcavoy-sites.gitlab.io/blog/" target="_blank">
+                Blog
+              </a>
+            </li>
           </ul>
         </nav>
 
