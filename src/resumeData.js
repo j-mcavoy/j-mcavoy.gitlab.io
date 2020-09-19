@@ -141,7 +141,7 @@ module.exports = {
         title: "Micromouse",
         category: "Rowan RAS",
         image: "micromouse.jpg",
-        url: "https://j-mcavoy-sites.gitlab.io/blog/micro-mouse/",
+        url: "https://j-mcavoy-sites.gitlab.io/blog/micromouse/",
       },
       {
         title: "Profhacks Website",
