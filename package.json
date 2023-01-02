@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "eslint-plugin-react": "^7.20.0",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "browserslist": {
     "production": [
